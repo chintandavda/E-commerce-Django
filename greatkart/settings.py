@@ -128,3 +128,6 @@ MEDIA_ROOT = BASE_DIR / "media"
 # https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
+
+
+#git remote add origin https://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@github.com/chintandavda/E-commerce-Django.git

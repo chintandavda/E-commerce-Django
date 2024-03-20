@@ -133,3 +133,9 @@ DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 
 
 #git remote add origin https://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@github.com/chintandavda/E-commerce-Django.git
+
+from django.contrib.messages import constants as messages
+
+MESSAGE_TAGS = {
+    messages.ERROR: "danger",
+}
